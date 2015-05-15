@@ -17,3 +17,8 @@ And then execute:
 ## Usage
 
 Post the latest RubyFlow stories into a room by typing ```!rubyflow``` or ```!rf``` in chat.
+
+## Links
+
+* [RubyFlow](http://www.rubyflow.com)
+* [isis-plugin-rubyflow on RubyGems](https://rubygems.org/gems/isis-plugin-rubyflow)
